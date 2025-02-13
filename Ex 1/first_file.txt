@@ -1,1 +1,3 @@
 This is the first file
+First command : 
+git clone https://github.com/BilalMagg/Team-colab-exercise.git
