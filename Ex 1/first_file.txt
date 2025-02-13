@@ -1,3 +1,15 @@
 This is the first file
 First command : 
 git clone https://github.com/BilalMagg/Team-colab-exercise.git
+
+second command : 
+git status 
+
+third command :
+git add .
+
+fourth command :
+git commit -m "Write your message here"
+
+final command :
+git push origin main
